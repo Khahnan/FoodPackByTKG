@@ -80,7 +80,7 @@
     },
     "GAMEPLAY_CannedChiliDescription": {
         "English": "Hearty. Warming. Soul soothing.",
-        "French (France)": "Copieux. Échauffement. Apaisement de l'âme.",
+        "French (France)": "Consistant. Réconfortant. Apaise l'âme.",
         "German": "Herzlich. Wärmend. Beruhigend für die Seele.",
         "Russian": "Питательно. Согревает тело и душу.",
         "Japanese": "愛情たっぷり。体も温まる。心も落ち着く。",
@@ -90,7 +90,7 @@
     },
     "GAMEPLAY_CannedMangos": {
         "English": "Cubed Mangos",
-        "French (France)": "Mangues au carré.",
+        "French (France)": "Cubes de mangue",
         "German": "Gewürfelte Mango",
         "Russian": "Консервированное манго",
         "Japanese": "角切りマンゴーの缶詰",
@@ -100,7 +100,7 @@
     },
     "GAMEPLAY_CannedMangosDescription": {
         "English": "Delicious, sweet, and slimey.",
-        "French (France)": "Delicieux, sucré et visqueux.",
+        "French (France)": "Délicieux, sucrés et visqueux.",
         "German": "Köstlich, süß und schleimig.",
         "Russian": "Вкусные, сладкие и скользкие.",
         "Japanese": "美味しく、甘く、滑らかな口当たり。",
@@ -110,7 +110,7 @@
     },
     "GAMEPLAY_CannedPears": {
         "English": "Halved Pears",
-        "French (France)": "Poires en Demi",
+        "French (France)": "Poires en tranches",
         "German": "Halbierte Birnen",
         "Russian": "Консервированные груши",
         "Japanese": "二つ切り洋梨の缶詰",
@@ -120,7 +120,7 @@
     },
     "GAMEPLAY_CannedPearsDescription": {
         "English": "Not the freshest but tasty regardless.",
-        "French (France)": "Pas le plus frais mais toujours savoureux",
+        "French (France)": "Pas les plus fraîches mais toujours savoureuses.",
         "German": "Nicht die frischesten, aber trotzdem lecker.",
         "Russian": "Не самые свежие, но все равно вкусные.",
         "Japanese": "新鮮ではないが、十分美味しい。",
@@ -130,7 +130,7 @@
     },
     "GAMEPLAY_CannedPineapples": {
         "English": "Diced Apples",
-        "French (France)": "Pommes en dés.",
+        "French (France)": "Pommes en dés",
         "German": "Gewürfelte Äpfel",
         "Russian": "Консервированный ананас",
         "Japanese": "角切りりんごの缶詰",
@@ -140,7 +140,7 @@
     },
     "GAMEPLAY_CannedPineapplesDescription": {
         "English": "A staple fruit loved by all.",
-        "French (France)": "Une fruit de base aimer par tous.",
+        "French (France)": "Un fruit de base aimé de tous.",
         "German": "Eine von allen geliebte Frucht.",
         "Russian": "Любимый всеми фрукт.",
         "Japanese": "誰からも愛される定番のフルーツ。",
@@ -160,7 +160,7 @@
     },
     "GAMEPLAY_CannedSpaghettiDescription": {
         "English": "Feed your inner child!",
-        "French (France)": "Nourrir votre enfant intérieur",
+        "French (France)": "Nourrit votre enfant intérieur !",
         "German": "Fütter das innere Kind in dir!",
         "Russian": "Покорми своего внутреннего ребенка!",
         "Japanese": "君の内なる子供心に届けよう！",
@@ -180,7 +180,7 @@
     },
     "GAMEPLAY_CannedStewDescription": {
         "English": "A hearty meal with beef and vegetables. An ideal meal.",
-        "French (France)": "Une repas nourrissant avec du boeuf et legumes. Une repas idéale.",
+        "French (France)": "Un repas nourrissant avec du boeuf et des légumes. Un plat idéal.",
         "Russian": "Сытный обед с говядиной и овощами. Идеальный обед.",
         "German": "Eine ideale, herzhafte Mahlzeit mit Rindfleisch und Gemüse.",
         "Japanese": "牛肉と野菜が入った愛情あふれる料理。理想の一品だ。",
@@ -203,7 +203,7 @@
     },
     "GAMEPLAY_CatFoodDescription": {
         "English": "Can of dry cat food.\nSmells terrible and will probably taste worse.",
-        "French (France)": "Boîte de croquettes pour chat. \n Sent mauvais et a probablement un goût plus pire.",
+        "French (France)": "Boîte de croquettes pour chat. \n Sent mauvais et le goût est probablement pire.",
         "German": "Eine Dose Trockenfutter für Katzen.\nRiecht fürchterlich und wird wahrscheinlich noch schlimmer schmecken.",
         "Russian": "Банка кошачьего корма. \nПахнет ужасно, а на вкус скорее всего еще хуже.",
         "Japanese": "ドライタイプのキャットフード缶。 \n匂いは酷く、そして味はそれ以上に酷いだろう。",
@@ -252,7 +252,7 @@
     },
     "GAMEPLAY_CornflakesDescription": {
         "English": "A large box of cornflakes. Dry and relativly calorie lacking.",
-        "French (France)": "Une grande boite de cornflakes. Sec et manque relativement de calories.",
+        "French (France)": "Une grande boîte de cornflakes. Secs et manquent relativement de calories.",
         "German": "Eine große Schachtel Cornflakes. Trocken und relativ kalorienarm.",
         "Russian": "Большая коробка кукурзных хлопьев. Сухие и довольно малокалорийные.",
         "Japanese": "コーンフレークの大箱。ドライでカロリー控えめ。",
@@ -262,7 +262,7 @@
     },
     "GAMEPLAY_CupMilk": {
         "English": "Cup of Milk",
-        "French (France)": "Tasse de lait.",
+        "French (France)": "Tasse de lait",
         "German": "Eine Tasse Milch",
         "Russian": "Кружка молока",
         "Japanese": "カップ入りミルク",
@@ -272,7 +272,7 @@
     },
     "GAMEPLAY_CupMilkDescription": {
         "English": "Might taste better than water -- but it won't strengthen your bones.",
-        "French (France)": "Pourrait gouter meuiller que l'eau -- mais cela ne renforcera pas vos os.",
+        "French (France)": "Peut-être plus goûtu que de l'eau -- mais cela ne renforcera pas vos os.",
         "German": "Schmeckt vielleicht besser als Wasser - stäkrt aber nicht die Knochen.",
         "Russian": "На вкус лучше чем вода, но кости не укрепляет.",
         "Japanese": "水よりはましな味だろう -- だが骨を丈夫にすることはできないだろう。",
@@ -298,7 +298,7 @@
         "German": "Eine Packung Trockenmilchpulver.",
         "Russian": "Пакет сухого молочного порошка.",
         "Polish": "Jedna saszetka mleka w proszku.",
-        "French (France)": "Un paquet de lait en poudre.",
+        "French (France)": "Un paquet de lait en poudre. Mélangez-le avec de l'eau pour obtenir du lait.",
         "Turkish": "Bir paket süt tozu.",
         "Korean": "팩에담긴 우유 분말",
         "Italian": "Una bustina di latte in polvere.",
@@ -311,7 +311,7 @@
         "German": "Spiritus der verlassenen Geister",
         "Russian": "Cпиртной напиток Покинутые Духи",
         "Polish": "Zapomniane Dusze",
-        "French (France)": "Eau de vie Forsaken Spirits",
+        "French (France)": "Forsaken Spirits",
         "Turkish": "Terkedilmiş Ruhlar",
         "Korean": "고독한 영혼",
         "Italian": "Spiriti Abbandonati",
